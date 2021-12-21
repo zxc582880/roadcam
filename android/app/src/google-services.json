@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80823646622",
+    "project_id": "roaddamagedetect",
+    "storage_bucket": "roaddamagedetect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80823646622:android:125cfaa87acfb93fcdbe8f",
+        "android_client_info": {
+          "package_name": "com.example.roaddamagedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80823646622-0ggel9n1e3org2pg8dbi1ihvp3s2injp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTEpNVTvRguL2tgoVIEvkPZG8g0X8zwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80823646622-0ggel9n1e3org2pg8dbi1ihvp3s2injp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
